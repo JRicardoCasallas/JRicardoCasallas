@@ -20,7 +20,7 @@ Bienvenido a mi perfil de GitHub. Soy desarrollador con interés en **trading al
 ---
 
 ## 📈 Proyecto destacado
-🔹 **[Trading Bot con Python y Telegram](https://github.com/JRicardoCasallas/Trading-Bot-Python-Telegram)**  
+🔹 **[Trading Bot con Python y Telegram](https://github.com/JRicardoCasallas/Trading-Bot-con-Python-y-Telegram)**  
 Bot de trading automatizado que se conecta a **Yahoo Finance** y envía alertas en **tiempo real** a través de Telegram.  
 
 ---
